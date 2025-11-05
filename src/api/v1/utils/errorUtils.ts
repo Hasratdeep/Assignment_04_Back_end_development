@@ -23,3 +23,7 @@ export const getErrorCode = (error: unknown): string => {
     }
     return "UNKNOWN_ERROR";
 };
+
+
+
+
